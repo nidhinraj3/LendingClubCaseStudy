@@ -26,15 +26,19 @@ Therby identifying such loan applicants risky loans can be reduced thereby cutti
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Below attributes were identified to be helpful
+> Verification Status
+> dti
+> Grade
+> Interest Rate
+> Loan Term
+> Home Ownership
+> Purpose of Loan
+> Annual Income
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
+## Libraries Used
 - seaborn
 - pandas
 - numpy
