@@ -47,12 +47,11 @@ Below attributes were identified to be helpful
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project is based on Lending Case Study tutorial by UpGrad
 
 
 ## Contact
-Created by [@nidhinraj3@gmail.com] & [@ebazmadani@gmail.com] - feel free to contact us!
+Created by [@nidhinraj3@gmail.com] & [@shahebazmadani@gmail.com] - feel free to contact us!
 
 
 <!-- Optional -->
