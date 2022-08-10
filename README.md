@@ -48,7 +48,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@nidhinraj3] & [@ebazmadani] - feel free to contact us!
+Created by [@nidhinraj3@gmail.com] & [@ebazmadani@gmail.com] - feel free to contact us!
 
 
 <!-- Optional -->
