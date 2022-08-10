@@ -28,12 +28,19 @@ Therby identifying such loan applicants risky loans can be reduced thereby cutti
 ## Conclusions
 Below attributes were identified to be helpful
 > Verification Status
+<br />
 > dti
+<br />
 > Grade
+<br />
 > Interest Rate
+<br />
 > Loan Term
+<br />
 > Home Ownership
+<br />
 > Purpose of Loan
+<br />
 > Annual Income
 
 
