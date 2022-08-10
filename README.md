@@ -27,6 +27,7 @@ Therby identifying such loan applicants risky loans can be reduced thereby cutti
 
 ## Conclusions
 Below attributes were identified to be helpful
+<br />
 Verification Status
 <br />
 dti
